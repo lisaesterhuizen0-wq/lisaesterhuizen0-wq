@@ -22,7 +22,7 @@ Claude (API · Code · skills) · Make.com · Notion · HubSpot · Clay · Slack
 
 - **[travel-selection-form](https://github.com/lisaesterhuizen0-wq/travel-selection-form)** — single-page travel-options selector with `mailto:` send. [Live demo](https://lisaesterhuizen0-wq.github.io/travel-selection-form/).
 - **[travel-itinerary-mobile](https://github.com/lisaesterhuizen0-wq/travel-itinerary-mobile)** — mobile-first travel itinerary page. [Live demo](https://lisaesterhuizen0-wq.github.io/travel-itinerary-mobile/).
-- **[harcourts-newsletter](https://github.com/lisaesterhuizen0-wq/harcourts-newsletter)** — hand-coded HTML email newsletter, dispatched via Make.com. [Live demo](https://lisaesterhuizen0-wq.github.io/harcourts-newsletter/).
+- **[harcourts-newsletter](https://github.com/lisaesterhuizen0-wq/harcourts-newsletter)** — monthly real-estate newsletter that drafts itself and emails the principal for approval. Built with Make.com + a Notion-stored Claude skill. [Live demo](https://lisaesterhuizen0-wq.github.io/harcourts-newsletter/).
 - **[ea-toolkit](https://github.com/lisaesterhuizen0-wq/ea-toolkit)** — small AI tools for executive assistants. Static HTML/JS + Cloudflare Workers proxy. [Live demo](https://lisaesterhuizen0-wq.github.io/ea-toolkit/).
 - **[my-blog-post](https://github.com/lisaesterhuizen0-wq/my-blog-post)** — first front-end project. The README is my published essay on learning to code as a stay-at-home mom.
 
