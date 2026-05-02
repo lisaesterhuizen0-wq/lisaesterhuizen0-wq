@@ -4,6 +4,8 @@
 
 I wire AI into real work. Automations that ship, skills that get used, internal tools that quietly remove friction from someone else's day.
 
+**Portfolio →** [lisaesterhuizen0-wq.github.io](https://lisaesterhuizen0-wq.github.io/)
+
 ---
 
 ## Currently
