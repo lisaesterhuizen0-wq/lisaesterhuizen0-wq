@@ -1,8 +1,8 @@
 # Lisa Myburgh
 
-**AI Operations** · Somerset West, South Africa · Remote
+**AI Automation & Enablement** · Somerset West, South Africa · Remote
 
-I wire AI into real work. Automations that ship, skills that get used, internal tools that quietly remove friction from someone else's day.
+I wire AI into real work. Automations that ship, skills that get used, internal tools that quietly remove friction from someone else's day — built for handover, so teams can run what I ship. First place in RAY AI's internal AI & automation competition.
 
 **Portfolio →** [lisaesterhuizen0-wq.github.io](https://lisaesterhuizen0-wq.github.io/)
 
@@ -20,9 +20,10 @@ Claude (API · Code · skills) · Make.com · Notion · HubSpot · Clay · Slack
 
 ## Featured projects
 
-- **[travel-selection-form](https://github.com/lisaesterhuizen0-wq/travel-selection-form)**: single-page travel-options selector with `mailto:` send. [Live demo](https://lisaesterhuizen0-wq.github.io/travel-selection-form/).
-- **[travel-itinerary-mobile](https://github.com/lisaesterhuizen0-wq/travel-itinerary-mobile)**: mobile-first travel itinerary page. [Live demo](https://lisaesterhuizen0-wq.github.io/travel-itinerary-mobile/).
+- **[cwn-srt-pipeline](https://github.com/lisaesterhuizen0-wq/cwn-srt-pipeline)**: the Make.com + Claude subtitle pipeline behind Carbon Weekly News — first place in RAY AI's internal AI & automation competition. [Case study](https://lisaesterhuizen0-wq.github.io/cwn-srt-pipeline/).
 - **[harcourts-newsletter](https://github.com/lisaesterhuizen0-wq/harcourts-newsletter)**: monthly real-estate newsletter that drafts itself and emails the principal for approval. Built with Make.com + a Notion-stored Claude skill. [Live demo](https://lisaesterhuizen0-wq.github.io/harcourts-newsletter/).
+- **[heart-meal-planner](https://github.com/lisaesterhuizen0-wq/heart-meal-planner)**: medication-aware Mediterranean meal planner for a cardiac household — where the dietetics degree meets the build. [Live demo](https://lisaesterhuizen0-wq.github.io/heart-meal-planner/).
+- **[cross-portal-autofill-demo](https://github.com/lisaesterhuizen0-wq/cross-portal-autofill-demo)**: capture once, fill everywhere — one bookmarklet pattern across two unrelated workflows. [Live demo](https://lisaesterhuizen0-wq.github.io/cross-portal-autofill-demo/).
 - **[ea-toolkit](https://github.com/lisaesterhuizen0-wq/ea-toolkit)**: small AI tools for executive assistants. Static HTML/JS + Cloudflare Workers proxy. [Live demo](https://lisaesterhuizen0-wq.github.io/ea-toolkit/).
 - **[my-blog-post](https://github.com/lisaesterhuizen0-wq/my-blog-post)**: first front-end project. The README is my published essay on learning to code as a stay-at-home mom.
 
@@ -33,6 +34,6 @@ Claude (API · Code · skills) · Make.com · Notion · HubSpot · Clay · Slack
 
 ---
 
-**Get in touch**: [LinkedIn](https://linkedin.com/in/lisa-myburgh) · lisa.myburgh@getray.ai
+**Get in touch**: [LinkedIn](https://linkedin.com/in/lisa-myburgh) · lisaesterhuizen0@gmail.com
 
-*Open to remote AI operations and automation roles, and selectively to consulting projects.*
+*Open to remote AI automation and enablement roles, and selectively to consulting projects.*
